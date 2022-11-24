@@ -22,11 +22,14 @@ nav a {text-transform: UPPERCASE;
 color: #000000;
 font-weight:bold;
 font-size: 30px;
-text-decoration:none;
 }
 
 nav {
 	position:absolute;
-	top: 50px;
+	top: 50x;
 	right:0;
 }
+
+.menu { position:relative;
+margin: o auto;
+width: 1240px;
